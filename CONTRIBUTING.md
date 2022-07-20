@@ -1,4 +1,4 @@
-Follow the below mentioned steps to start contributing to this repository.
+### Follow the below mentioned steps to start contributing to this repository
 
 ## 1️⃣ Fork the Repo
 
@@ -37,17 +37,17 @@ and start making desired changes in respective files.
 
 ## 4️⃣ Add, Commit, Push
 
-When you're happy with the changes, you can push them to your remote fork via these three simple steps:
+When you're happy with the changes, you can push them to your remote fork as follows
 
 1. Add changes to staging area
    ```
    git add <file-names>
    ```
-2. Commit Changes
+2. Commit changes
    ```
    git commit -m "<commit-message>"
    ```
-3. Push Changes
+3. Push changes
    ```
    git push
    ```
@@ -56,5 +56,5 @@ When you're happy with the changes, you can push them to your remote fork via th
 
 ## 5️⃣ Create Pull Request
 
-To merge your changes in the original repository, you need to create a pull request. You can do so by going to your fork on GitHub, clicking on 'Pull requests' and then clicking on 'New pull request'.
+To merge your changes into the original repository, you need to create a pull request. You can do so by going to your fork on GitHub, clicking on 'Pull requests' and then clicking on 'New pull request'.
 <img width="1276" alt="create pull request" src="https://user-images.githubusercontent.com/70039999/179989204-eabcfecd-405d-4100-ab0a-5a7033104a69.png">
